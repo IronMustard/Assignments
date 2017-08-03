@@ -1,0 +1,15 @@
+file_name	date	total_spectra_assigned	unique_spectra_assigned	spectra_used	num_u_proteins	most_common_protein	mcp_count	num_peptides	num_unique_peptides	cleavage_C_terminal	cleavage_N_terminal	fragment_monoisotopic_me	fragment_monoisotopic_me_unit	parent_monoisotopic_me_minus	parent_monoisotopic_me_plus	parent_monoisotopic_me_unit	parent_monoisotopic_mie	b_ions	y_ions	z_ions	c_ions	taxon
+GPM00300001217.xml	2004:08:16:09:54:58	14	13	588	30	ENSP00000319713	2	34	28	+17.00305	+1.00794	0.4	Daltons	100	100	ppm	yes	yes	yes	N/A	N/A	human
+GPM00300025683.xml.gz	2013:05:10:19:57:50	1983	520	7238	718	sp|TRYP_PIG|	279	10844	644	N/A	N/A	20	ppm	20	20	ppm	yes	N/A	N/A	N/A	N/A	mouse_up
+GPM00300005996.xml	2007:05:24:07:37:51	0	0	1	0	N/A	N/A	0	0	N/A	N/A	0.4	Daltons	100	100	ppm	yes	N/A	N/A	N/A	N/A	human, mouse, rat, yeast, mosquito, aspergillus_fumigatus, bee, thalecress, cow, dog, worm, cavia, zebrafish, fly, cat, chicken, human, mouse, opposum, mould, rabbit, rice, rat, spombe, yeast, frog, Bacillus_subtilis, Clostridium_perfringens, Deinococcus_radiodurans, Escherichia_coli_K12, Francisella_tularensis_tularensis, Geobacter_sulfurreducens, Haemophilus_influenzae, Listeria_innocua, Mycobacterium_leprae, Mycobacterium_tuberculosis_CDC1551, Mycoplasma_pulmonis, Staphylococcus_aureus_MW2, Streptococcus_pneumoniae_TIGR4, Streptococcus_pyogenes_M1_GAS, Yersinia_pestis_CO92
+GPM00300024198.xml.gz	2013:03:05:23:57:49	63	13	5400	7	sp|ALBU_BOVIN|	58	142	7	+17.002735	+1.007825	0.4	Daltons	10	10	ppm	yes	yes	yes	N/A	N/A	cow_unigene
+GPM00300005149.xml	2006:07:18:11:26:07	551	306	4775	139	YNL209W	42	794	127	+17.002735	+1.007825	0.4	Daltons	1	3	Daltons	no	yes	yes	N/A	N/A	yeast
+GPM00300027140.xml.gz	2014:05:14:22:27:03	3190	1111	13157	946	gi|124804963|	138	6308	796	N/A	N/A	20	ppm	100	100	ppm	yes	N/A	N/A	N/A	N/A	human, Plasmodium_falciparum
+GPM00300018268.xml	2012:12:13:13:17:49	6	5	15	1	ENSBTAP00000016986	6	6	1	N/A	N/A	0.4	Daltons	100	100	ppm	yes	N/A	N/A	N/A	N/A	cow
+GPM00300005314.xml	2006:11:03:07:54:50	256	193	715	325	ENSP00000331514	50	1073	248	N/A	N/A	0.4	Daltons	100	100	ppm	yes	N/A	N/A	N/A	N/A	human
+GPM00300007301.xml	2008:06:23:09:13:06	16	12	249	5	sp|ALBU_BOVIN|	14	20	5	N/A	N/A	0.4	Daltons	0.5	3.0	Daltons	no	N/A	N/A	N/A	N/A	mouse
+GPM00300017060.xml	2012:07:13:16:07:58	202	175	10834	528	ENSP00000368678	13	707	425	N/A	N/A	0.4	Daltons	100	100	ppm	yes	N/A	N/A	N/A	N/A	human
+GPM00300006810.xml	2008:05:30:14:39:12	1	1	1	2	sp|ALBU_BOVIN|	1	2	2	N/A	N/A	0.4	Daltons	0.5	3.0	Daltons	no	N/A	N/A	N/A	N/A	cow
+GPM00300016578.xml	2012:05:15:18:31:07	2584	174	23473	85	sp|TRY1_BOVIN|	1769	2627	84	+17.002735	+1.007825	0.4	Daltons	3	3	ppm	yes	yes	yes	N/A	N/A	yeast
+GPM00300004086.xml	2006:03:16:09:34:53	14	13	524	33	ENSMUSP00000001566	6	68	31	+17.002735	+1.007825	0.5	Daltons	1	4	Daltons	yes	yes	yes	N/A	N/A	mouse
+GPM00300002423.xml	2005:04:26:17:00:11	47	44	541	67	ENSP00000252244	6	108	64	+17.00305	+1.00794	0.4	Daltons	1	0.1	Daltons	yes	yes	yes	N/A	N/A	human
